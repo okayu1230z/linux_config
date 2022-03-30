@@ -1,6 +1,6 @@
-##             ##
-# okmt's bashrc #
-##             ##
+##                  ##
+# okmt's bashrc v0.1 #
+##                  ##
 
 # bashがinteractiveじゃない場合にreturnする
 case $- in
